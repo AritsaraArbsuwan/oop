@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\obj\Debug\OOP.Aritsara.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\obj\Debug\OOP.Aritsara.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\bin\Debug\OOP.Aritsara.exe.config
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\bin\Debug\OOP.Aritsara.exe
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\bin\Debug\OOP.Aritsara.pdb
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\obj\Debug\OOP.Aritsara.exe
+C:\Users\user\source\repos\OOP.Aritsara\OOP.Aritsara\obj\Debug\OOP.Aritsara.pdb
